@@ -1,4 +1,4 @@
-# ExamApp
+# Pamietnik
 An application that allows you to use the diary in electronic form.
 ## Author
 
